@@ -1,7 +1,6 @@
 /* style.css */
 
-.num,
-.numthree {
+.num {
   background-color: rgb(235, 154, 154);
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
@@ -11,12 +10,11 @@
   font-size: 36px;
 }
 
-.numthree {
+.font-sz {
   font-size: 24px;
  }
 
  #four {
   background-color: rgb(131, 255, 120);
-  font-size: 24px;
   font-weight: bold;
  }
